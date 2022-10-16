@@ -1,1 +1,1 @@
-content of foo1
+From code 1
